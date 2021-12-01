@@ -1,0 +1,27 @@
+.logo
+{
+    border-radius: 30px;
+}
+.gh1
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.carousel-inner
+{
+    height: 700px;
+    
+    margin-top: 20px;
+    
+}
+.footer
+{
+    text-shadow: 1em;
+  
+   color: brown;
+   display: flex;
+   align-content:space-around;
+   justify-content: center;
+   column-gap: 20px;
+   
+}
